@@ -1,0 +1,14 @@
+{
+    "server": {
+        "host": "127.0.0.1",
+        "port": 8080
+    },
+
+    "db": {
+        "host": "db",
+        "port": 3306,
+        "user": "nbx",
+        "password": "crypto",
+        "database": "nbx"
+    }
+}

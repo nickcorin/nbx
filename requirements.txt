@@ -1,0 +1,10 @@
+aiohttp==3.5.4
+async-timeout==3.0.1
+attrs==20.3.0
+chardet==3.0.4
+idna==3.1
+mariadb==1.0.6
+multidict==4.7.6
+protobuf==3.15.8
+six==1.15.0
+yarl==1.6.3
